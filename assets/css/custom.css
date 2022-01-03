@@ -2,6 +2,10 @@
     max-width: 70%;
 }
 
+.text-right{
+    text-align: right;
+}
+
 .text-left {
     text-align: left;
 }
@@ -10,12 +14,21 @@
     text-align: justify;
 }
 
+.pv-20{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 .p-20{
     padding: 20px;
 }
 
 .br-10{
     border-radius: 10px;
+}
+
+.br-20{
+    border-radius: 20px;
 }
 
 .fs-30{
@@ -31,6 +44,10 @@
     max-height: 80% !important;
 }
 
+.img-30p{
+    max-width: 30% !important;
+    max-height: 30% !important; 
+}
 
 @media only screen and (max-width: 600px) {
     .max-70p {
