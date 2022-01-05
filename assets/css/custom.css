@@ -10,6 +10,10 @@
     text-align: left;
 }
 
+.text-center {
+    text-align: center;
+}
+
 .text-justify{
     text-align: justify;
 }
@@ -37,6 +41,10 @@
 
 .bg-theme{
     background-color: rgb(2, 41, 102)
+}
+
+.text-yellow{
+    color: rgb(243, 205, 116) !important;
 }
 
 .image-80p{
